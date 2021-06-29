@@ -1,4 +1,4 @@
-# Minor-19
+# Minor-19 Room On Click (ROC)
 ## Auto Parking Slot detection and alert system
 
 Just require an camera for feed with wifi connectivity and all your parking related problems are solved at an click.
